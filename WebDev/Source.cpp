@@ -41,6 +41,8 @@ int main (int argc, char *argv[])
 		}
 	}
 
+	functions.push(toAdd);
+
 	while (functions.empty() == false)
 	{
 
